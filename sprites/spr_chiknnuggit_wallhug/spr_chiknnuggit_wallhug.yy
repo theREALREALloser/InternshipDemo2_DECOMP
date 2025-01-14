@@ -32,8 +32,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "i dont wanna get lazy in here",
+    "path": "folders/Sprites/i dont wanna get lazy in here.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
